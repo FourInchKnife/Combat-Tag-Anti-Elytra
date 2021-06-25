@@ -1,0 +1,5 @@
+name: "ElytraCombatTagging"
+version: "1.0.0"
+author: "FourInchKnife"
+main: "io.github.fourinchknife.elycomtag.ElyComTag"
+api-version: "1.17"

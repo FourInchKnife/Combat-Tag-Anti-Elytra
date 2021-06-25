@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Combat-Tag-Anti-Elytra:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Combat_Tag_Anti_Elytra_jar</output-path>
+    <root id="archive" name="Combat-Tag-Anti-Elytra.jar">
+      <element id="module-output" name="Combat-Tag-Anti-Elytra" />
+    </root>
+  </artifact>
+</component>
